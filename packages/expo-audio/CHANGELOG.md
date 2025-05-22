@@ -8,7 +8,7 @@
 
 ### 🐛 Bug fixes
 
-- [iOS] Correctly add the http headers to the `AVURLAsset`.
+- [iOS] Correctly add the http headers to the `AVURLAsset`. ([#37029](https://github.com/expo/expo/pull/37029) by [@alanjhughes](https://github.com/alanjhughes))
 
 ### 💡 Others
 
