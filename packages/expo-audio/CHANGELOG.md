@@ -8,6 +8,8 @@
 
 ### 🐛 Bug fixes
 
+- [iOS] Correctly add the http headers to the `AVURLAsset`.
+
 ### 💡 Others
 
 ## 0.4.5 — 2025-05-08
